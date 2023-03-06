@@ -1,4 +1,4 @@
-def riangle():
+def triangle():
   stars = 1
   for line in range(5):
     print(' ' * (5 - line - 1), end = '')
@@ -6,4 +6,4 @@ def riangle():
     stars += 2
 
 
-riangle()
+triangle()

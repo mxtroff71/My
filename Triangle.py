@@ -7,3 +7,4 @@ def triangle():
 
 
 triangle()
+triangle()

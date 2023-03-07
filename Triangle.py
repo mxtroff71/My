@@ -7,4 +7,3 @@ def triangle():
 
 
 triangle()
-triangle()

@@ -6,5 +6,5 @@ def triangle():
     stars += 2
 
 
-<<<<<<< HEAD
+triangle()
 triangle()

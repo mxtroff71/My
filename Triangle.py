@@ -5,6 +5,4 @@ def triangle():
     print('*' * stars)
     stars += 2
 
-
-<<<<<<< HEAD
 triangle()

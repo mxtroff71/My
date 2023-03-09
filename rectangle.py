@@ -4,3 +4,4 @@ def rectangle():
       print('*')
     else:
       print('*' + ' ' * 3 + '*')
+rectangle()

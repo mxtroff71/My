@@ -4,5 +4,5 @@ def triangle():
     print(' ' * (5 - line - 1), end = '')
     print('*' * stars)
     stars += 2
-
+triangle()
 triangle()

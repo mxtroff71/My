@@ -1,6 +1,6 @@
 def rectangle():
-  for line in range(5):
-    if line == 0 or line == 4:
+  for line in range(6):
+    if line == 0 or line == 5:
       print('*')
     else:
       print('*' + ' ' * 3 + '*')
